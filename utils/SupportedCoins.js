@@ -1,0 +1,8 @@
+export const ETH = 'Eth'
+export const COINA = 'USDT'
+export const COINB = 'USDC'
+export const COINC = 'BTC'
+export const COIND = 'XCH'
+export const COINE = 'DOT'
+export const COINF = 'FLUX'
+export const DEFAULT_VALUE = 'Select a token'
