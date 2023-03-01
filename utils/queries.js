@@ -88,7 +88,7 @@ export async function increaseAllowance(tokenName, amount) {
 
     const tokenContractObj = await tokenContract(address)
     const data = await tokenContractObj.approve(
-      '0xc7a7651483c9a62d6f7b2baa86cd4708fab66017',
+      "0x8d40Ed7900110088BD98D6c374edcd84Eff94815", //'0xc7a7651483c9a62d6f7b2baa86cd4708fab66017',
       toWei(amount),
     )
 

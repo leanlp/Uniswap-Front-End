@@ -1,5 +1,5 @@
 export const ETH = 'Eth'
-export const COINA = 'CoinA'
-export const COINB = 'CoinB'
-export const COINC = 'CoinC'
+export const COINA = '0xLean'
+export const COINB = '0xBuild'
+export const COINC = '0xCLS'
 export const DEFAULT_VALUE = 'Select a token'

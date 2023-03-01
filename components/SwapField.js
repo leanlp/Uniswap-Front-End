@@ -6,6 +6,7 @@ const SwapField = React.forwardRef(({ obj }, inputRef) => {
 
   return (
     <div className='flex items-center rounded-xl'>
+      
       <input
         ref={inputRef}
         className={getInputClassname()}
