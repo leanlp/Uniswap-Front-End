@@ -12536,9 +12536,9 @@
                   "src": "375:7:4",
                   "typeDescriptions": {
                     "typeIdentifier": "t_stringliteral_2faedeef57c57447be304c3fe3959d01b9ba5a40a3cf9c0dfe6a604ef71750b9",
-                    "typeString": "literal_string \"CoinA2\""
+                    "typeString": "literal_string \"CoinA\""
                   },
-                  "value": "CoinA2"
+                  "value": "CoinA"
                 },
                 {
                   "hexValue": "436f696e42",
