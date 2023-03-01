@@ -5,10 +5,8 @@ import {
   COINA,
   COINB,
   COINC,
-  COIND, COINE, COINF,
   DEFAULT_VALUE,
   ETH,
-  USDT,
 } from '../utils/SupportedCoins'
 
 const Selector = ({ defaultValue, ignoreValue, setToken, id }) => {
@@ -17,9 +15,6 @@ const Selector = ({ defaultValue, ignoreValue, setToken, id }) => {
     { key: COINA, name: COINA },
     { key: COINB, name: COINB },
     { key: COINC, name: COINC },
-    { key: COIND, name: COIND },
-    { key: COINE, name: COINE },
-    { key: COINF, name: COINF },
   ]
 
   const [selectedItem, setSelectedItem] = useState()

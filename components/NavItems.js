@@ -31,7 +31,7 @@ const NavItems = () => {
       </p>
       <p
         className={getNavIconClassName(CHART)}
-        onClick={() => window.open('https://0xlean.tech', '_blank')}
+        onClick={() => window.open('https://info.uniswap.org/#/', '_blank')}
       >
         {CHART}
         <ArrowSmUpIcon className='h-4 rotate-45' />
